@@ -25,4 +25,5 @@ exports.bgGreen = chalk.bgGreen;
 exports.bgYellow = chalk.bgYellow;
 exports.bgBlue = chalk.bgBlue;
 exports.bgMagenta = chalk.bgMagenta;
+exports.bgCyan = chalk.bgCyan;
 exports.bgWhite = chalk.bgWhite;

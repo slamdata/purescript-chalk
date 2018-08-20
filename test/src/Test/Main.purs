@@ -31,6 +31,7 @@ main = do
   log $ bgYellow "BGYELLOW"
   log $ bgBlue "BGBLUE"
   log $ bgMagenta "BGMAGENTA"
+  log $ bgCyan "BGCYAN"
   log $ bgWhite "BGWHITE"
 
   log $ bgBlack $ white $ underline $ bold $ "BGBLACK + WHITE + UNDERLINE + BOLD"
