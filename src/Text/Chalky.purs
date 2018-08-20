@@ -25,4 +25,5 @@ foreign import bgGreen :: String -> String
 foreign import bgYellow :: String -> String
 foreign import bgBlue :: String -> String
 foreign import bgMagenta :: String -> String
+foreign import bgCyan :: String -> String
 foreign import bgWhite :: String -> String
